@@ -1,4 +1,4 @@
-# book-review-web-application
+# Book Catalog web application 
 Database-backed book catalog website with user login, category browsing, searchable book listings, detailed book pages, and cart-related actions.
 
 ## Technologies
