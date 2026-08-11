@@ -76,12 +76,12 @@ Database-backed book catalog website with user login, category browsing, searcha
   
 ## Screenshots
 
-![Bookish home page](screenshots/home.png)
-
-![Category catalog](screenshots/category.png)
-
-![Book details](screenshots/book-details.png)
-
+![Bookish home page](screenshots/home-page.png)
+---
+![Login page](screenshots/login-page.png)
+---
+![Category catalog](screenshots/category-page.png)
+---
 ## Contributors
 
 - Mansiba Gohil
